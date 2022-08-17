@@ -1,7 +1,5 @@
 # Myopia Clusters
 
-In this assignment, you’ll apply what you learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, you’ll create a visualization that shares your findings. 
-
 ## Background
 
 You are on the data science team of a medical research company that’s interested in finding better ways to predict myopia, or nearsightedness. Your team has tried—and failed—to improve their classification model when training on the whole dataset. However, they believe that there might be distinct groups of patients that would be better to analyze separately. So, your supervisor has asked you to explore this possibility by using unsupervised learning.
@@ -52,20 +50,4 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 ### Part 4: Make a Recommendation
 
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters? 
-
-## Rubric
-
-[Unit 20 Homework Rubric](https://docs.google.com/document/d/1046PZMnFwxcNkyIewuJc_RYhaErY42HoNUKORkh18A4/edit)
-
-- - -
-
-## References
-
-Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
 
